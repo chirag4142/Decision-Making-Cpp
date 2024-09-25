@@ -1,17 +1,12 @@
 # Decision-Making-CPP
 
-### Experiment 5
+### Experiment :To do decision making using If-else.
 
-**Aim -**
-To do decision making using If-else.
 
 Theory
 Decision-making in programming allows for executing different code paths based on specific conditions. In C++, the `if` and `else` statements are essential constructs for implementing conditional logic and controlling the flow of execution.
 
-### Experiment 5 [a]
-
-### Aim
-To determine whether a given integer is even or odd.
+### Experiment :To determine whether a given integer is even or odd.
 
 ### Algorithm
 1. **Start**
@@ -29,10 +24,8 @@ To determine whether a given integer is even or odd.
 The algorithm uses the modulus operator `%` to determine if a number is even. An integer is considered even if it is divisible by 2 with no remainder. The modulus operator returns the remainder of a division operation. For example, `6 % 2` equals `0`, indicating that `6` is even. Conversely, `7 % 2` equals `1`, indicating that `7` is not even (i.e., it is odd).
 
 
-### Experiment 5 [b]
+### Experiment:To determine whether a given floating-point number is positive or negative.
 
-### Aim
-To determine whether a given floating-point number is positive or negative.
 
 ### Algorithm
 1. **Start**
@@ -51,10 +44,7 @@ The algorithm checks whether a floating-point number is positive or negative. By
 - If the number is less than or equal to `0`, it is considered negative based on the given conditions (though typically, zero is neither positive nor negative, the given code considers it as negative).
 
 
-### Experiment 5 [c]
-
-### Aim
-To determine the location of a point in a Cartesian coordinate system based on its coordinates.
+### Experiment:To determine the location of a point in a Cartesian coordinate system based on its coordinates.
 
 ### Algorithm
 1. **Start**
@@ -80,10 +70,7 @@ The code determines the location of a point in the Cartesian coordinate system b
 - **At the Origin**: Both X and Y coordinates are zero.
 
 
-### Experiment 5 [d]
-
-### Aim
-To perform basic arithmetic operations using a switch case statement.
+### Experiment:To perform basic arithmetic operations using a switch case statement.
 
 ### Algorithm
 1. **Start**
